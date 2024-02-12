@@ -1,9 +1,3 @@
-💫 About Me:
-
-<br> 🤓 A curious mind always learning new things.<br> 💡 A creative thinker who loves to solve problems.<br> 💬 A good communicator who enjoys sharing ideas.<br> 🖖 A friendly and open-minded person who loves to meet new people.<br> 💻 A tech-savvy individual who loves to code.<br><br>**Technical Skills**<br><br> 💻 Proficient in Python, Java, and Dart.<br> 💾 Experienced in data structures and algorithms.<br> 🛠️ Worked on projects with Machine Learning , DeepLearning and Flutter.<br> 🛡️ Familiar with security best practices.<br> ☁️ Worked with cloud computing platforms like AWS and IBM Cloud. <br>
-
-
-# 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />

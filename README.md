@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Narla-Venkata-Anand-Sai-Kumar&theme=darkhub&row=1&column=9)
 

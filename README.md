@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Narla Venkata Anand Sai Kumar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narla-Venkata-Anand-Sai-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Narla-Venkata-Anand-Sai-Kumar" /> </p>
+
+<p align="left"> <a href="https://www.instagram.com/__.__111101110__._____/" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_taraka?logo=instagram&style=for-the-badge" alt="karthik_taraka" /></a> </p>
+
+- 🔭 I’m currently working on GenAI & Computer Vision
+
+- 🌱 I’m currently learning **LVMS & MLOPS**
+
+- 👯 I’m looking to collaborate on [Protein Viz](https://github.com/Narla-Venkata-Anand-Sai-Kumar/ProteinViz)
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/narla-venkata-anand-sai-kumar/)
+
+- 📫 How to reach me **venkatnarla0@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sIaIl8ybXIxxpoVeX3-8bqQidEb_gnOh/view?usp=sharing&usp=embed_facebook)
+---
 <p align="center">
   <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />

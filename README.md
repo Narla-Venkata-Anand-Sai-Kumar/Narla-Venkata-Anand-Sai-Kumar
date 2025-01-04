@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Narla Venkata Anand Sai Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narla-Venkata-Anand-Sai-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="NarlaVenkata Anand Sai Kumar" /> </p>
+<h1 align="center">Hi 👋, I'm Venkata Anand Sai Kumar Narla</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narla-Venkata-Anand-Sai-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Narla Venkata Anand Sai Kumar" /> </p>
 
 <p align="left"> <a href="https://www.instagram.com/__.__111101110__._____/" target="blank"><img src="https://img.shields.io/twitter/follow/Narla-Venkata-Anand-Sai-Kumar?logo=instagram&style=for-the-badge" alt="Narla Venkata Anand Sai Kumar" /></a> </p>
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LVMS & MLOPS**
 
-- 👯 I’m looking to collaborate on [Protein Viz](https://github.com/Narla-Venkata-Anand-Sai-Kumar/ProteinViz)
+- 👯 I’m looking to collaborate on Agentic AI
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/narla-venkata-anand-sai-kumar/)
 

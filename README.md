@@ -3,8 +3,7 @@
 <!-- ══ LIVE PORTFOLIO SCREENSHOT ══════════════════════════════════ -->
 <!-- Click to open full portfolio — auto-updates on every deploy    -->
 
-[![Portfolio](https://image.thum.io/get/width/1600/crop/900/wait/3/noanimate/https://venkata-anand-sai-kumar-narla.netlify.app/dark)](https://venkata-anand-sai-kumar-narla.netlify.app/)
-<!-- ══ ABOUT ════════════════════════════════════════════════════════ -->
+[![Portfolio](https://image.thum.io/get/width/1600/crop/900/wait/3/https://venkata-anand-sai-kumar-narla.netlify.app/dark)](https://venkata-anand-sai-kumar-narla.netlify.app/)<!-- ══ ABOUT ════════════════════════════════════════════════════════ -->
 
 - 🔭 Currently working on **LLM Evaluation Infrastructure, Agentic AI & Multi-tenant Telemetry** at Everstage
 - 🌱 Currently learning **LVMs & MLOps**

@@ -3,7 +3,7 @@
 <!-- ══ LIVE PORTFOLIO SCREENSHOT ══════════════════════════════════ -->
 <!-- Click to open full portfolio — auto-updates on every deploy    -->
 
-[![Venkata Anand Sai Kumar Narla — Portfolio](https://api.microlink.io/?url=https://venkata-anand-sai-kumar-narla.netlify.app&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1280&viewport.height=800)](https://venkata-anand-sai-kumar-narla.netlify.app/)
+[![Venkata Anand Sai Kumar Narla — Portfolio](https://api.microlink.io/?url=https://venkata-anand-sai-kumar-narla.netlify.app&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1280&viewport.height=900&waitForTimeout=3000)](https://venkata-anand-sai-kumar-narla.netlify.app/)
 
 <!-- ══ ABOUT ════════════════════════════════════════════════════════ -->
 

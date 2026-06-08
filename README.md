@@ -3,8 +3,8 @@
 <!-- ══ LIVE PORTFOLIO SCREENSHOT ══════════════════════════════════ -->
 <!-- Click to open full portfolio — auto-updates on every deploy    -->
 
-![Venkata Anand Sai Kumar Narla — Portfolio](https://venkata-anand-sai-kumar-narla.netlify.app/?theme=dark)
 
+[![Venkata Anand Sai Kumar Narla — Portfolio](https://image.thum.io/get/width/1600/crop/900/https://venkata-anand-sai-kumar-narla.netlify.app/?theme=dark)](https://venkata-anand-sai-kumar-narla.netlify.app/)
 <!-- ══ ABOUT ════════════════════════════════════════════════════════ -->
 
 - 🔭 Currently working on **LLM Evaluation Infrastructure, Agentic AI & Multi-tenant Telemetry** at Everstage

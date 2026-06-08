@@ -1,3 +1,17 @@
+
+
+<!-- ══ LIVE PORTFOLIO SCREENSHOT ══════════════════════════════════ -->
+<!-- Click to open full portfolio — auto-updates on every deploy    -->
+
+[![Venkata Anand Sai Kumar Narla — Portfolio](https://image.thum.io/get/width/1600/crop/900/https://venkata-anand-sai-kumar-narla.netlify.app/)](https://venkata-anand-sai-kumar-narla.netlify.app/)
+
+<p align="center">
+  <a href="https://venkata-anand-sai-kumar-narla.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 View Full Portfolio-venkata--anand--sai--kumar--narla.netlify.app-01696f?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
+
+---
 <h1 align="center">Hi 👋, I'm Venkata Anand Sai Kumar Narla</h1>
 <h3 align="center">Software Engineer II — AI · Everstage · Building Agentic AI & LLM Infrastructure</h3>
 
@@ -14,19 +28,6 @@
   </a>
   <a href="https://drive.google.com/file/d/1sIaIl8ybXIxxpoVeX3-8bqQidEb_gnOh/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ══ LIVE PORTFOLIO SCREENSHOT ══════════════════════════════════ -->
-<!-- Click to open full portfolio — auto-updates on every deploy    -->
-
-[![Venkata Anand Sai Kumar Narla — Portfolio](https://image.thum.io/get/width/1600/crop/900/https://venkata-anand-sai-kumar-narla.netlify.app/)](https://venkata-anand-sai-kumar-narla.netlify.app/)
-
-<p align="center">
-  <a href="https://venkata-anand-sai-kumar-narla.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View Full Portfolio-venkata--anand--sai--kumar--narla.netlify.app-01696f?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
 

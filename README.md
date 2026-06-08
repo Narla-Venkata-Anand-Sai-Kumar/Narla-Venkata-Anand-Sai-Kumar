@@ -5,33 +5,6 @@
 
 [![Venkata Anand Sai Kumar Narla — Portfolio](https://image.thum.io/get/width/1600/crop/900/https://venkata-anand-sai-kumar-narla.netlify.app/)](https://venkata-anand-sai-kumar-narla.netlify.app/)
 
-<p align="center">
-  <a href="https://venkata-anand-sai-kumar-narla.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View Full Portfolio-venkata--anand--sai--kumar--narla.netlify.app-01696f?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-</p>
-
----
-<h1 align="center">Hi 👋, I'm Venkata Anand Sai Kumar Narla</h1>
-<h3 align="center">Software Engineer II — AI · Everstage · Building Agentic AI & LLM Infrastructure</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Narla-Venkata-Anand-Sai-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/narla-venkata-anand-sai-kumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__.__111101110__._____/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:venkatnarla0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1sIaIl8ybXIxxpoVeX3-8bqQidEb_gnOh/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white" />
-  </a>
-</p>
-
----
 
 <!-- ══ ABOUT ════════════════════════════════════════════════════════ -->
 
